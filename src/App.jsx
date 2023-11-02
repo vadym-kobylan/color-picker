@@ -30,7 +30,7 @@ function App() {
     },
     {
       name: 'Swatches',
-      href: '/swatches ',
+      href: '/swatches',
     },
   ];
 
